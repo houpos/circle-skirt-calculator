@@ -1,0 +1,143 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  }
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    background-color: #EFF2F1;
+  }
+
+  nav {
+    background-color: #899792;
+  }
+  
+   .jumbotron {
+    display: flex;
+    align-items: center;
+    background-image: url('/images/background5.jpg');
+    background-size: cover;
+    color: #ffffff;
+    height: 600px;
+    text-shadow: 0.25px 0.25px 0.25px #000000;
+  }
+
+  .jumbotron h2 {
+    font-size: 60px;
+    font-weight: 700;
+    margin: 0;
+    color: #fff;
+  }
+
+  .row .three {
+    width: 25%;
+  }
+
+  .col {
+    border: 2px solid green;
+  }
+
+  .row .nine {
+    width: 75%;
+}
+
+  .profile-pic {
+    max-width: 250px;
+    /* position: relative;
+    width: 120px;
+    height: 120px; */
+    border-radius: 100%;
+}
+  column, .columns {
+    position: relative;
+    padding: 0 20px;
+    min-height: 1px;
+    float: left;
+}
+
+.main-col {
+  padding-right: 5%;
+}
+
+p {
+  line-height: 2;
+}
+
+ul {
+  list-style-type: none;
+}
+
+  #skill-list {
+    text-align: center;
+  }
+
+  #skill-list li {
+    margin: 5px;
+    padding: 5px;
+  }
+
+  section {
+    padding-bottom: 30px;
+  }
+  
+  section .row img {
+    /* margin: 0 0 30px; */
+    width: 100%;
+  }
+
+  .card-deck {
+    margin-bottom: 30px;
+  }
+
+  #myFooter {
+    /* background-color: #5C7C76; */
+    background-color: #899792;
+    color:#EFF2F1;
+    flex: 0 0 auto;
+    -webkit-flex: 0 0 auto;
+  }
+
+  @media screen and (max-width: 767px){
+    #myFooter {
+      text-align: center;
+    }
+  }
+
+  #myFooter a {
+    color:#e7e7e7;
+    text-decoration: none;
+  }
+  
+  #myFooter a:hover, #myFooter a:focus {
+    text-decoration: none;
+    color:#2E352D;
+  }
+
+   .social-networks a {
+    color:#e7e7e7;
+    text-decoration: none;
+}
+
+.social-networks a:hover, .social-networks a:focus {
+  text-decoration: none;
+  color:#899792;
+} 
+
+  #myFooter .footer-copyright{
+    background-color: #2E352D;
+    padding-top:15px;
+    padding-bottom:3px;
+    text-align: center;
+  }
+
+  img #skirt_type {
+    vertical-align: middle;
+  }
+
+  img #circleskirt {
+    max-height: 300;
+  }
+
+  .
