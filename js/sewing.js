@@ -119,7 +119,7 @@ convertMeasurement = () => {
         </div>
         <div class="col-sm-12 col-md-12 col-lg-3">
         <div class="card text-center">
-            <div class="card-header"> Fabric Width (${fabricmeasurement_type})</div>  
+            <div class="card-header"> Fabric Width (${measurement_preference})</div>  
             <ul class="list-group list-group-flush">
                 <li class="list-group-item">${d}</li>
             </ul>
