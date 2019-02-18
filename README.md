@@ -1,6 +1,8 @@
 # Circle Skirt Calculator
 Based on user input, calculates necessary information to sew a circle skirt using Javascript.
 
+[See Demo](https://houpos.github.io/circle-skirt-calculator/)
+
 ## Getting Started
 Download project to your local machine and run using a local testing web server. 
 
